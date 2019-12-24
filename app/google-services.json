@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008797310280",
+    "firebase_url": "https://deleteit-662be.firebaseio.com",
+    "project_id": "deleteit-662be",
+    "storage_bucket": "deleteit-662be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008797310280:android:e9eddc537789defd82277d",
+        "android_client_info": {
+          "package_name": "com.tutorial.deleteit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008797310280-anfvc1svt3guegbfm40q8tu9ne368a9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorial.deleteit",
+            "certificate_hash": "3c66c0c3de4e04ddb5abd9b35d2642d4bc05fb5c"
+          }
+        },
+        {
+          "client_id": "1008797310280-oeilm7hgp16sghlu9rp5l4irmfeqsv7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2IXhICrQxT65eaueppplVP__9aTzmnjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008797310280-oeilm7hgp16sghlu9rp5l4irmfeqsv7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
